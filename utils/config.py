@@ -199,7 +199,7 @@ headers = ['Pt_Age:latest',
  'Caregiver_Pt_Rel:Caregiver',
  'Caregiver_Pt_Rel:Other']
 
-{'Pt_Age:latest': 'What is the latest age of the patient?',
+question_dict = {'Pt_Age:latest': 'What is the latest age of the patient?',
  'Caregiver_Age:latest': 'What is the latest age of the caregiver?',
  'MEMORY_CDR_No_Impairment:latest': 'Does the patient have no memory impairment lately?',
  'MEMORY_CDR_Questionable_Impairment:latest': 'Does the patient have questionable memory impairment lately?',
